@@ -2,12 +2,12 @@
 
 Boxee app - Shows the latest photos from Norwegian Armed Forces.
 
-![Screenshot](https://github.com/sindresorhus/Forsvaretidag-Boxee/raw/master/screenshot.png)
+![Screenshot](screenshot.png)
 
 
 ## Getting Started
 
-Can be found in Boxee's App Library.
+Install through the Boxee App Library.
 
 
 ## Credit
